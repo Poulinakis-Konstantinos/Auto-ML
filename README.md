@@ -15,4 +15,5 @@ Central to the approach is defining a large hierarchical optimization problem th
   - Auto-Keras, built to find the best performing deep learning model for classification and regression. Searches for architecture and hyperparameters for deep learning models and trains them using the training data, and returns the best performing deep learning model are the final result . **(pip install autokeras )**
 
 3. AutoGluon
-  Amazon's autoML framework open sourced by AWS. It also supports Image classification, Object detection, Text, and real-world applications spanning image. Searches for  best performing deep learning architecture and hyperparameters,Model selection and Automatic hyperparameter tuning,Automatic data preprocessing.
+  Amazon's autoML framework open sourced by AWS. It also supports Image classification, Object detection, Text, and real-world applications spanning image. Searches for  best performing deep learning architecture and hyperparameters,Model selection and Automatic hyperparameter tuning,Automatic data preprocessing. 
+  It uses MXNet as a backend.
